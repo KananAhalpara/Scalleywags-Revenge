@@ -1,6 +1,12 @@
 # Scalleywags-Revenge
 Web Design Assignment-Saclleywags Revenge- Algonquin College
 
+Your site is ready to be published at https://kananahalpara.github.io/Scalleywags-Revenge/.
+
+
+
+ASSIGNMENT : AS FOLLOWS :
+
 Goal : Re-create the New Photoshop Mock-up as closely as possible! Create the entire HTML/CSS one-page site using only the PSD for reference.
 
 Guidelines
